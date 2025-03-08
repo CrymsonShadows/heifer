@@ -1,2 +1,4 @@
+const { moo } = require("./moo.js")
+
 let name = "cow";
-console.log(`moo, ${name}!`);
+console.log(moo(name));
