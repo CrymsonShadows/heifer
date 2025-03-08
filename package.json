@@ -1,0 +1,19 @@
+{
+  "name": "heifer",
+  "version": "1.0.0",
+  "description": "Testing npm",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/CrymsonShadows/heifer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CrymsonShadows/heifer/issues"
+  },
+  "homepage": "https://github.com/CrymsonShadows/heifer#readme"
+}
