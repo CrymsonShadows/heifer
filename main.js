@@ -1,1 +1,2 @@
-console.log("`moo, ${name}`");
+let name = "cow";
+console.log(`moo, ${name}!`);
