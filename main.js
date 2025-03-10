@@ -1,4 +1,5 @@
+import { say } from "cowsay";
 import { moo } from "./moo.js";
 
 let name = "cow";
-console.log(moo(name));
+console.log(say({ text: moo(name) }));
